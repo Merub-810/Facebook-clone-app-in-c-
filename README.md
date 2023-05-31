@@ -1,4 +1,4 @@
-# Projects
+# Project
 It's a Facebook Clone app in C++ that perform following functionalities:
 <ol>
 <li>Sign up
